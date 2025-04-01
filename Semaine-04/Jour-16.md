@@ -4,11 +4,11 @@
 
 ### CSS
 
-- [ ] Comprendre le fonctionnement de CSS Grid
-  - [ ] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
-- [ ] Découverte des icones vectorielles (https://fontawesome.com/)
+- [x] Comprendre le fonctionnement de CSS Grid
+  - [x] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
+- [x] Découverte des icones vectorielles (https://fontawesome.com/)
 
 ### Rattrapage
 
-- [ ] Finaliser les objectifs manquants des jours précédents
-- [ ] Revoir les notions pas/mal comprises
+- [x] Finaliser les objectifs manquants des jours précédents
+- [x] Revoir les notions pas/mal comprises
