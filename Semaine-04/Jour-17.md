@@ -4,9 +4,9 @@
 
 ### CSS - Révisions et approfondissement
 
-- [ ] Revoir et approfondir les notions importantes de CSS : 
-  - [ ] Box model
-  - [ ] Positionnement (relatif, absolu, fixed et sticky)
-  - [ ] Combinateurs (`>`, `+`, etc…)
-  - [ ] Cascade, Héritage, Spécificité
-  - [ ] Flexbox (application pratique des concepts vus précédemment)
+- [x] Revoir et approfondir les notions importantes de CSS : 
+  - [x] Box model
+  - [x] Positionnement (relatif, absolu, fixed et sticky)
+  - [x] Combinateurs (`>`, `+`, etc…)
+  - [x] Cascade, Héritage, Spécificité
+  - [x] Flexbox (application pratique des concepts vus précédemment)
