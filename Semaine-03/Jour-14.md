@@ -4,12 +4,12 @@
 
 ### Journée de rattrapage
 
-- [ ] Finaliser les objectifs manquants des jours précédents
-- [ ] Revoir les notions pas/mal comprises
-- [ ] Consolider les acquis HTML
-- [ ] Poser des questions sur les concepts difficiles
+- [x] Finaliser les objectifs manquants des jours précédents
+- [x] Revoir les notions pas/mal comprises
+- [x] Consolider les acquis HTML
+- [x] Poser des questions sur les concepts difficiles
 
 ### Remédiation possible
 
-- [ ] HTML : Structure de base, balises sémantiques
-- [ ] Tableaux et formulaires HTML
+- [x] HTML : Structure de base, balises sémantiques
+- [x] Tableaux et formulaires HTML
